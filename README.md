@@ -4,4 +4,4 @@ ICS DEFENDER 1.0
 ICS Defender combines attack scenarios with real world challenges. 
 Step into the shoes of an ICS cybersecurity engineer, or cyber defense analyst, 
 every decision you make is critical; BEWARE! One wrong move could spell disaster.
---no game console needed!
+-- no game console needed!
